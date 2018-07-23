@@ -1,0 +1,9 @@
+0.01,5.67,not_bird
+5.67,11.73,bird
+11.73,13.35,background_bird
+13.35,20.72,bird
+20.72,22.33,background_bird
+22.33,27.30,bird
+27.30,31.43,background_bird
+31.43,35.80,bird
+35.80,61.21,not_bird
